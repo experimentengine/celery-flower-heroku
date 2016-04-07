@@ -1,2 +1,2 @@
-git+https://github.com/boydjj/flower.git@34b869b43067cdf164e6d40851081791594d14d0
+git+https://github.com/boydjj/flower.git@master
 redis==2.10.5
