@@ -1,0 +1,10 @@
+# For use with autoenv. Copy this file to .env and replace empty variables with your own.
+
+export ALLOWED_EMAILS=""
+export AUTH_PROVIDER=flower.views.auth.GithubLoginHandler
+export BROKER_URL=
+export FLOWER_OAUTH2_KEY=
+export FLOWER_OAUTH2_REDIRECT_URI=http://localhost:5555/login
+export FLOWER_OAUTH2_SECRET=
+export LOGGING_LEVEL=DEBUG
+export PORT=5555
