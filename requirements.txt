@@ -1,2 +1,2 @@
-flower==0.9.0
+git+https://github.com/boydjj/flower
 redis==2.10.5
